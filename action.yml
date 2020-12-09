@@ -1,4 +1,8 @@
 name: 'Gittyleaks'
+description: 'Action to Gittyleaks tool prevent to secrets on your repo before merge.'
+branding:
+  icon: globe
+  color: blue
 runs:
   using: 'docker'
   image: 'Dockerfile'
