@@ -1,0 +1,4 @@
+name: 'Gittyleaks'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
